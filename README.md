@@ -1,7 +1,7 @@
 # Análise Companhia de Seguros 🏢
 
 ## Descrição do Projeto
-Neste projeto foram respondidas perguntas de negócios utilizando machine learning. O objetivo é trazer insights para a empresa com base nos dados de clientes.
+A empresa companhia de seguros Proteja Seu Amanhã determinou este projeto para responder a perguntas de negócios utilizando técnicas de machine learning. O objetivo é gerar insights valiosos para a empresa com base nos dados dos clientes, apoiando a tomada de decisões estratégicas.
 
 ## Ferramentas e Bibliotecas Utilizadas 🛠️
 * **Python:** Linguagem principal utilizada para a análise
