@@ -56,3 +56,8 @@ O conjunto de dados possui os seguintes campos:
 * **Bibliotecas Python:** aplicação prática de diversas bibliotecas e ferramentas do ecossistema Python
 * **Data-driven decisions:** uso de insights derivados da análise de dados para orientar decisões estratégicas
 
+## 🛠️ Instalação
+
+1. Clone este repositório
+2. Instale as dependências listadas acima
+3. Execute o aplicativo:
