@@ -10,7 +10,6 @@ A empresa companhia de seguros Proteja Seu Amanhã determinou este projeto para 
 * **Seaborn:** Biblioteca para construção de gráficos
 * **Matplotlib:** Biblioteca para construção de gráficos
 * **Math:** Biblioteca para calculos matematicos
-  
 
 ## Dataset 📊
 O conjunto de dados possui os seguintes campos:
